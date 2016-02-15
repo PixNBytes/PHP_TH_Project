@@ -1,0 +1,307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"lis",
+				"Listening"
+			],
+			[
+				"eas",
+				"Easy"
+			],
+			[
+				"act",
+				"Action"
+			],
+			[
+				"Blu",
+				"Blu-ray"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"erro",
+				"error_message"
+			],
+			[
+				"yea",
+				"year"
+			],
+			[
+				"form",
+				"format"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"emai",
+				"email_body"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"em",
+				"email_body"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"cat",
+				"catalog"
+			],
+			[
+				"page",
+				"pageTitle"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"backgro",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jasonanders/Sites/PHP Project-TH/inc/data.php",
+		"/Users/jasonanders/Sites/PHP Project-TH/suggest.php",
+		"/Users/jasonanders/Sites/PHP Project-TH/index.php",
+		"/Users/jasonanders/Sites/PHP Project-TH/details.php",
+		"/Users/jasonanders/Sites/PHP Project-TH/catalog.php",
+		"/Users/jasonanders/Desktop/PHPMailer-master/class.phpmailer.php",
+		"/Users/jasonanders/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jasonanders/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jasonanders/Library/Application Support/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/Users/jasonanders/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jasonanders/Sites/s1v1/index.php",
+		"/Users/jasonanders/Sites/s1v1/thanks.php",
+		"/Users/jasonanders/Sites/s1v1/process.php",
+		"/Users/jasonanders/Sites/s1v1/Build a PHP Website.sublime-project",
+		"/Users/jasonanders/Sites/s1v1/inc/data.php",
+		"/Users/jasonanders/Sites/s1v1/inc/header.php",
+		"/Users/jasonanders/Sites/s1v1/inc/footer.php",
+		"/Users/jasonanders/Sites/s1v1/suggest.php",
+		"/Users/jasonanders/Sites/s1v1/delete.html",
+		"/Users/jasonanders/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/jasonanders/webconfs/index.html",
+		"/Users/jasonanders/Library/Application Support/Sublime Text 2/Packages/User/CSS.sublime-settings",
+		"/Users/jasonanders/Desktop/lake-tahoe/scss/style.scss",
+		"/Users/jasonanders/webconfs/_includes/header.html",
+		"/Users/jasonanders/webconfs/resources.md",
+		"/Users/jasonanders/webconfs/contact.md",
+		"/Users/jasonanders/webconfs/_config.yml",
+		"/Users/jasonanders/webconfs/_layouts/post.html",
+		"/Users/jasonanders/webconfs/_posts/2015-04-25-sass-conf.md",
+		"/Users/jasonanders/webconfs/_posts/2015-04-29-welcome-to-jekyll.markdown",
+		"/Users/jasonanders/Desktop/trekker/client/index.html",
+		"/Users/jasonanders/Desktop/trekker/build/templates/home.html",
+		"/Users/jasonanders/Desktop/trekker/build/index.html",
+		"/Users/jasonanders/treehouse/odot/config/routes.rb",
+		"/Users/jasonanders/treehouse/odot/spec/features/todo_lists/create_spec.rb",
+		"/Users/jasonanders/treehouse/odot/Gemfile",
+		"/Users/jasonanders/treehouse/odot/spec/spec_helper.rb",
+		"/Users/jasonanders/Desktop/railsapi/projects/odot/Gemfile",
+		"/Users/jasonanders/treehouse/projects/odot/config/environments/production.rb",
+		"/Users/jasonanders/Sites/localwp.com/wp-content/themes/bootstrap-to-wp/footer.php",
+		"/Users/jasonanders/Sites/localwp.com/wp-content/themes/bootstrap-to-wp/header.php",
+		"/Users/jasonanders/Sites/localwp.com/wp-content/themes/bootstrap-to-wp/functions.php",
+		"/Users/jasonanders/Sites/localwp.com/wp-content/themes/bootstrap-to-wp/function.php",
+		"/Volumes/jasona/Documents/Coding/Treehouse/WordPress Development Track/7.From Bootstrap to WordPress/Project Files/wp12.1.3-bootstrap-to-wp/style.css",
+		"/Users/jasonanders/Sites/localwp.com/wp-content/themes/bootstrap-to-wp/style.css",
+		"/Users/jasonanders/Desktop/3-9/final/index.html",
+		"/Users/jasonanders/Desktop/3-2/start/css/my-styles.css",
+		"/Users/jasonanders/Desktop/Bootstrap_treehouse",
+		"/Users/jasonanders/treehouse-gulp-basics/scss/base/_variables.scss",
+		"/Users/jasonanders/treehouse-gulp-basics/gulpfile.js",
+		"/Users/jasonanders/treehouse-gulp-basics/scss/layout/_footer.scss",
+		"/Users/jasonanders/treehouse-gulp-basics/treehouse-gulp-basics/gulpfile.js",
+		"/Users/jasonanders/Desktop/creating-and-styling-a-web-page.css",
+		"/Users/jasonanders/Desktop/test.scss",
+		"/Users/jasonanders/Desktop/creating-and-styling-a-web-page.html",
+		"/Users/jasonanders/Desktop/9781430237860/chapter 1/creating-and-styling-a-web-page.css",
+		"/Users/jasonanders/Library/Containers/com.apple.BKAgentService/Data/Documents/iBooks/Books/425801057.epub/OEBPS/Text/XIV-VII.xhtml",
+		"/Users/jasonanders/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jasonanders/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Applications/Brackets.app/Contents/samples/root/Getting Started/main.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"syntax",
+			"nav-current",
+			"comment"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": false
+}
